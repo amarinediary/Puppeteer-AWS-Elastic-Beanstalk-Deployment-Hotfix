@@ -15,3 +15,8 @@ The `.npmrc` file defines how npm should behave when running commands. Setting `
 - Source @ https://docs.npmjs.com/cli/v6/using-npm/config#unsafe-perm
 
 ## `.ebextensions`
+You can add AWS Elastic Beanstalk configuration files (.ebextensions) to your web application's source code to configure your environment and customize the AWS resources that it contains.
+- Source @ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
+
+If you do not enable EPEL and if you continue installing chromium as part of npm install, Puppeteer cannot launch Chromium due to unavailablity of `libatk-1.0.so.0` [...]
+- Source @ https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md#running-puppeteer-on-aws-ec2-instance-running-amazon-linux
