@@ -11,7 +11,7 @@ Related to both [Running Puppeteer on AWS EC2 instance running Amazon-Linux](htt
 |Platform version|`5.4.3 (Recommended)`|
 
 ## `.npmrc`
-The `.npmrc` file defines how npm should behave when running commands. Setting `unsafe-perm` to true suppress the UID/GID switching when running package scripts. Set the unsafe-perm flag to run scripts with root privileges.
+The `.npmrc` file defines how npm should behave when running commands. Setting `unsafe-perm` to true suppress the UID/GID switching when running package scripts. Set the `unsafe-perm` flag to run scripts with root privileges.
 - Source @ https://docs.npmjs.com/cli/v6/using-npm/config#unsafe-perm
 
 ## `.ebextensions`
