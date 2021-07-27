@@ -1,8 +1,8 @@
 {
   "name": "marionette",
   "version": "1.0.0",
-  "description": "Express Puppeteer boilerplate for Amazon Web Service Elastic Beanstalk (64bit Linux 2 Node.js 14 environement) via Code Pipeline (GithHub CI/CD)",
-  "main": "scraper.js",
+  "description": "Express Puppeteer boilerplate for AWS Elastic Beanstalk (64bit Linux 2 Node.js 14 environment) deployed via AWS/GithHub Code Pipeline",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
