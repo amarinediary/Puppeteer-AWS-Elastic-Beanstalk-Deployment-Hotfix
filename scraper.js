@@ -20,7 +20,7 @@ let scraper = async (site) => {
         /**
          * @see https://peter.sh/experiments/chromium-command-line-switches/
          */
-         args: [
+        args: [
             '--block-new-web-contents',
             '--disable-modal-animations',
             '--disable-web-security',
@@ -44,17 +44,17 @@ let scraper = async (site) => {
             '--disable-dev-shm-usage',
             '--no-first-run',
         ],
+    }),
+
+        page = await browser.newPage();
+
+    let state = await page.goto(site, {
+
+        /**
+         * @see https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagegobackoptions
+         */
+        waitUntil: 'networkidle0',
     });
-
-        page = await browser.newPage(),
-
-        state = await page.goto(site, {
-
-            /**
-             * @see https://github.com/puppeteer/puppeteer/blob/main/docs/api.md#pagegobackoptions
-             */
-            waitUntil: 'networkidle0',
-        });
 
     state = state.status();
 
