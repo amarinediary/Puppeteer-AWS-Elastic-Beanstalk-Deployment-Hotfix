@@ -3,6 +3,7 @@
 
 ## Environement
 |-|Parameters|
+|-|-|
 |Platform|`Node.js`|
 |Platform branch|`Node.js 14 running on 64bit Amazon Linux 2`|
 |Platform version|`5.4.3 (Recommended)`|
