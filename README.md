@@ -10,6 +10,16 @@ Related to Puppeteer [troubleshooting](https://github.com/puppeteer/puppeteer/bl
 |Platform branch|`Node.js 14 running on 64bit Amazon Linux 2`|
 |Platform version|`5.4.3 (Recommended)`|
 
+## Quick Start
+Download the repository, and use it as your deployement folder:
+
+1. `git clone https://github.com/amarinediary/Marionette.git`
+
+Initiate your new project and install all required dependencies:
+
+2. `npm init --yes`
+3. `npm i puppeteer --save`
+
 ## `.npmrc`
 The `.npmrc` file defines how npm should behave when running commands. Setting `unsafe-perm` to true suppress the UID/GID switching when running package scripts. Set the `unsafe-perm` flag to run scripts with root privileges.
 - Source @ https://docs.npmjs.com/cli/v6/using-npm/config#unsafe-perm
