@@ -26,7 +26,7 @@ Simply paste both the `.npmrc` file and the `.ebextensions` folder at the root b
 app/
 ├── .ebextensions/
 │   ├── 01_enableEPEL.config
-│   ├── 02_installEPELPackages.config
+│   └── 02_installEPELPackages.config
 ├── .npmrc/
 ...
 ```
