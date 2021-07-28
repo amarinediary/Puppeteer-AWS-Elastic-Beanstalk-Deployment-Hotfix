@@ -28,3 +28,7 @@ app/
 ├── .npmrc/
 ...
 ```
+
+## Related GitHub Tickets
+- [Puppeteer not installing on AWS ElasticBeanstalk instance](https://github.com/puppeteer/puppeteer/issues/685)
+- [Could not find browser on Elastic Beanstalk AWS](https://github.com/puppeteer/puppeteer/issues/6920)
