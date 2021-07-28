@@ -35,7 +35,7 @@ app/
 ├── .ebextensions/
 │   ├── 01_enableEPEL.config
 │   └── 02_installEPELPackages.config
-├── .npmrc/
+├── .npmrc
 ...
 ```
 
