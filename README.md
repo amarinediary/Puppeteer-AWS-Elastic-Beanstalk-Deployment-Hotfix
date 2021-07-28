@@ -15,7 +15,7 @@ Download the repository, and use it as your deployement folder:
 
 1. `git clone https://github.com/amarinediary/Marionette.git`
 
-Initiate your new project and install all required dependencies:
+Initiate your new project and install dependencies:
 
 2. `npm init --yes`
 3. `npm i puppeteer --save`
