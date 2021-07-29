@@ -19,7 +19,7 @@ Related to Puppeteer [troubleshooting](https://github.com/puppeteer/puppeteer/bl
 |Platform version|`5.4.3 (Recommended)`|
 
 ## Quick start
-Download the repository, and use it as your deployement folder:
+Clone this repository, and use it as your deployement folder:
 
 1. `git clone https://github.com/amarinediary/Marionette.git`
 
