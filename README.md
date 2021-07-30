@@ -16,7 +16,7 @@ Related to Puppeteer [troubleshooting](https://github.com/puppeteer/puppeteer/bl
 |-|-|
 |Platform|`Node.js`|
 |Platform branch|`Node.js 14 running on 64bit Amazon Linux 2`|
-|Platform version|`5.4.3 (Recommended)`|
+|Platform version|`5.4.4 (Recommended)`|
 
 ## Quick start
 Clone this repository, and use it as your deployement folder:
