@@ -5,6 +5,7 @@ Related to Puppeteer [troubleshooting](https://github.com/puppeteer/puppeteer/bl
 
 ## Table of contents
 - [Elastic Beanstalk environement](https://github.com/amarinediary/Marionette#elastic-beanstalk-environement)
+- [Backward compatibility](https://github.com/amarinediary/Marionette#backward-compatibility)
 - [Quick start](https://github.com/amarinediary/Marionette#quick-start)
 - [`.npmrc` file](https://github.com/amarinediary/Marionette#npmrc-file)
 - [`.ebextensions` folder](https://github.com/amarinediary/Marionette#ebextensions-folder)
