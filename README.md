@@ -57,3 +57,7 @@ app/
 - [Could not find browser on Elastic Beanstalk AWS](https://github.com/puppeteer/puppeteer/issues/6920)
 - [libdbus-1.so.3: no version information available](https://github.com/puppeteer/puppeteer/issues/5379)
 - [Headless Chromium with Puppeteer doesn't work on Amazon Linux AMI](https://github.com/puppeteer/puppeteer/issues/765)
+
+## Watch it, Star it, Fork it
+
+We made your day? Drop a star!
