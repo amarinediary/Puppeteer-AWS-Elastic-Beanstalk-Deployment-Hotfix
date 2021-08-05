@@ -60,4 +60,4 @@ app/
 
 ## Watch it, Star it, Fork it
 
-We made your day? Drop a star!
+We made your day? Give us a star!
