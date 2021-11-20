@@ -29,7 +29,7 @@ Clone this repository, and use it as your deployement folder:
 
 Initiate your new project and install dependencies:
 
-2. `npm init --yes`
+2. `npm init --y`
 3. `npm i puppeteer --save`
 
 ## `.npmrc` file
