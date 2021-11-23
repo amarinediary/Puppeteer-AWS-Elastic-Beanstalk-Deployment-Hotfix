@@ -40,7 +40,7 @@ The `.npmrc` file defines how `npm` should behave when running commands. Setting
 ## `.ebextensions` folder
 You can add AWS Elastic Beanstalk configuration files (`.ebextensions`) to your web application's source code to configure your environment and customize the AWS resources that it contains.
 
-In our case, if we don't enable [EPEL](https://fedoraproject.org/wiki/EPEL#What_is_Extra_Packages_for_Enterprise_Linux_.28or_EPEL.29.3F) and if we continue installing chromium as part of `npm install`, Puppeteer cannot launch Chromium due to the unavailability of `libatk-1.0.so.0`.
+In our case, if we don't enable [EPEL (Extra Packages for Enterprise Linux)](https://fedoraproject.org/wiki/EPEL#What_is_Extra_Packages_for_Enterprise_Linux_.28or_EPEL.29.3F) and if we continue installing chromium as part of `npm install`, Puppeteer cannot launch Chromium due to the unavailability of `libatk-1.0.so.0`.
 
 ## Deployment folder structure
 ```
