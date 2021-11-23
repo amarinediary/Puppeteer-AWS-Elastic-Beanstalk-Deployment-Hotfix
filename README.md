@@ -9,6 +9,7 @@ Related to Puppeteer [troubleshooting](https://github.com/puppeteer/puppeteer/bl
 - [Quick start](https://github.com/amarinediary/Marionette#quick-start)
 - [`.npmrc` file](https://github.com/amarinediary/Marionette#npmrc-file)
 - [`.ebextensions` folder](https://github.com/amarinediary/Marionette#ebextensions-folder)
+- [Dumb mistakes](https://github.com/amarinediary/Marionette#dumb-mistakes)
 - [Deployment folder structure](https://github.com/amarinediary/Marionette#deployment-folder-structure)
 - [Related GitHub Puppeteer tickets](https://github.com/amarinediary/Marionette#related-github-puppeteer-tickets)
 
