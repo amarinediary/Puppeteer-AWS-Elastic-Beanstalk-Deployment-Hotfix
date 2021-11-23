@@ -51,6 +51,10 @@ app/
 ...
 ```
 
+## Dumb mistakes
+If your deployment isn't working you should always try to look at the log file from your Elastic Beanstalk environment.
+A common mistake is packages mismatch between your local environment and your Elastic Beanstalk environment. Make sure both environment match.
+
 ## Related GitHub Puppeteer tickets
 - [Failed to launch chrome](https://github.com/puppeteer/puppeteer/issues/807)
 - [Puppeteer not installing on AWS ElasticBeanstalk instance](https://github.com/puppeteer/puppeteer/issues/685)
