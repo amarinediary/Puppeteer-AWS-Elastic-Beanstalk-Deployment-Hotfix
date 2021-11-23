@@ -17,7 +17,7 @@ Related to Puppeteer [troubleshooting](https://github.com/puppeteer/puppeteer/bl
 |-|-|
 |Platform|`Node.js`|
 |Platform branch|`Node.js 14 running on 64bit Amazon Linux 2`|
-|Tested up to platform version|`5.4.7 (Recommended)`|
+|Tested up to platform version|`5.4.8 (Recommended)`|
 
 ## Backward compatibility
 The Marionette Puppeteer deployment folder has been successfully tested with AWS Elastic Beanstalk on a `Node.js 12 running on 64bit Amazon Linux 2` environement.
