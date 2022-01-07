@@ -57,10 +57,10 @@ If your deployment isn't working you should always try to look at the log file f
 A common mistake is packages mismatch between your local environment and your Elastic Beanstalk environment. Make sure both environment match.
 
 ## A few related GitHub Puppeteer tickets threads
+- [libdbus-1.so.3: no version information available](https://github.com/puppeteer/puppeteer/issues/5379)
 - [Failed to launch chrome](https://github.com/puppeteer/puppeteer/issues/807)
 - [Puppeteer not installing on AWS ElasticBeanstalk instance](https://github.com/puppeteer/puppeteer/issues/685)
 - [Could not find browser on Elastic Beanstalk AWS](https://github.com/puppeteer/puppeteer/issues/6920)
-- [libdbus-1.so.3: no version information available](https://github.com/puppeteer/puppeteer/issues/5379)
 - [Headless Chromium with Puppeteer doesn't work on Amazon Linux AMI](https://github.com/puppeteer/puppeteer/issues/765)
 
 ## Watch it, Star it, Fork it
